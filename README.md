@@ -36,4 +36,4 @@ In this project, I had the opportunity to explore and implement the following co
 
 ## Demo
 
-<img src="demo.gif" width=100%>
+<video src="demo.mp4"/>
