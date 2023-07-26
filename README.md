@@ -35,3 +35,5 @@ In this project, I had the opportunity to explore and implement the following co
 9. **Kingfisher Image Loading:** I learned how to use the Kingfisher library, which allowed me to download images asynchronously and efficiently cache them. This optimization enhances the app's performance and reduces redundant image downloads.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-my-shop/assets/73584972/ea982172-90e9-4670-bf3d-0781433848c4"/>
