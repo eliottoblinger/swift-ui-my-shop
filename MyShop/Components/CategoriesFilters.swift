@@ -49,8 +49,6 @@ struct CategoriesFilters: View {
                 .padding(8)
             }
         }
-        .presentationDetents([.fraction(1)])
-        .presentationDragIndicator(.visible)
     }
 }
 

@@ -41,6 +41,7 @@ struct FiltersBar: View {
                     }
                     .sheet(isPresented: $showingFilters) {
                         FiltersSheet()
+                            .interactiveDismissDisabled()
                     }
             }
         }

@@ -55,6 +55,7 @@ struct FiltersSheet: View {
                     }
                     .sheet(isPresented: $showingCategoriesFilters){
                         CategoriesFilters()
+                            .interactiveDismissDisabled()
                     }
                     .padding(.top, 48)
                     Spacer()
@@ -67,8 +68,6 @@ struct FiltersSheet: View {
                 }
             }
         }
-        .presentationDetents([.fraction(1)])
-        .presentationDragIndicator(.visible)
     }
 }
 
