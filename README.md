@@ -26,11 +26,11 @@ In this project, I had the opportunity to explore and implement the following co
 
 5. **Conditionally Displaying Sheet:** I implemented the ability to display a sheet conditionally, enabling users to view additional details or perform specific actions based on context.
 
-6. **Utilizing Popover:** Popovers were integrated into the app to present additional information or options in a non-intrusive manner.
+6. **Utilizing Popover:** Popover vas integrated into the app to present additional information or options in a non-intrusive manner.
 
 7. **Using TabView:** To enhance user experience, I incorporated a TabView to navigate between different sections of the application seamlessly.
 
-8. **Integration of Checkbox and Toggle:** The app features the use of checkboxes and toggles, providing users with options for filtering and managing favorite products.
+8. **Integration of Checkbox and Toggle:** The app features the use of checkboxes and toggles, providing users with options for filtering and managing products.
 
 9. **Kingfisher Image Loading:** I learned how to use the Kingfisher library, which allowed me to download images asynchronously and efficiently cache them. This optimization enhances the app's performance and reduces redundant image downloads.
 
