@@ -36,4 +36,4 @@ In this project, I had the opportunity to explore and implement the following co
 
 ## Demo
 
-<video src="https://github.com/eliottoblinger/swift-ui-my-shop/assets/73584972/ea982172-90e9-4670-bf3d-0781433848c4"/>
+<video src="https://github.com/eliottoblinger/swift-ui-my-shop/assets/73584972/83b779ac-764c-4610-a514-49e63337c547"/>
