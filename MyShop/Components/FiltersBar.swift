@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import SwiftUITooltip
 
 struct FiltersBar: View {
     @EnvironmentObject var productStore: ProductStore
